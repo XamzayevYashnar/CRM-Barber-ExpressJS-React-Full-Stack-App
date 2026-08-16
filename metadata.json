@@ -1,0 +1,7 @@
+{
+  "name": "NAVBAT - Sartaroshxona CRM & Navbat Tizimi",
+  "description": "Mahalla sartaroshxonasi uchun onlayn navbat, usta taxtasi va ega hisobot tizimi (QR booking, live queue, master board, owner dashboard).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
