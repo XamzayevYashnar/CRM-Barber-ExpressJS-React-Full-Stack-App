@@ -1,5 +1,7 @@
 # NAVBAT — mahalla sartaroshxonasi uchun CRM & Onlayn Navbat
 
+Youtube link: https://youtu.be/qhfUsl940TA?si=KghluqTfZPkjMFrW
+
 ## 1. Muammo
 Mahalladagi sartaroshxonalar buyurtmalarni daftar yoki telefon orqali yozadi. Natijada: mijoz kelib uzoq navbat kutadi yoki bekorga qaytib ketadi, usta kimni qachon qabul qilishini adashtiradi, sartaroshxona egasi esa kunlik tushum va ustalarning haqiqiy yuklamasini faqat kechqurun kassani sanabgina bila oladi.
 
